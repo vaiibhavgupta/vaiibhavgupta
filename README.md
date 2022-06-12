@@ -6,5 +6,6 @@
   - Email - vaiibhavgupta.1apr@gmail.com
   - LinkedIn - https://www.linkedin.com/in/vaiibhavgupta/
 - View my Work at:
-  - Kaggle - https://www.kaggle.com/vaiibhavgupta/
   - Portfolio Website - https://vaiibhavgupta.github.io
+  - Kaggle - https://www.kaggle.com/vaiibhavgupta/
+  - Medium - https://medium.com/@vaiibhavgupta
