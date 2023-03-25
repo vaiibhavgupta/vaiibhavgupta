@@ -1,7 +1,1 @@
-- 👋 Hi, I’m Vaibhav Gupta
-- 👀 I’m interested in Data Science, Machine Learning, and Natural Language Processing.
-- 🌱 I’m a constant learner. I Graduated from Udacity's Data Scientist Nanodegree in May 2022 and currently enrolled in Scaler's Data Science and Machine learning Certifications.
-- 📫 Contact me at:
-  - LinkedIn - https://www.linkedin.com/in/vaiibhavgupta/
-- View my Work at:
-  - Medium - https://medium.com/@vaiibhavgupta
+- 👋 Hi, I’m Vaibhav Gupta!
